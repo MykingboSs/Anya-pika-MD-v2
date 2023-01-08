@@ -21,10 +21,10 @@ global.headerText = "Anya by Pika" // text for header of menu //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             globale . propriétaire  = [ '' , '917355622763' , '919673141317' ]
+             globale . propriétaire       = [ '' , ' , '     +223 72 26 81 34  ' ]+223 72 26 81 34
              global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
+             globale . linkz   =   "https://wa.me/"    // URL du thème qui sera affiché sur WhatsApp //+223 72 26 81 34
+             globale . premium    = [ '' ]     // numéros premium //             
              global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
