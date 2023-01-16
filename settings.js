@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-globale . simpleBotname    =    "" ༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆   //⚠️ Utilisez uniquement un nom normal et un nom de travail ici ou vous causerez des erreurs ⚠️//
+globale . simpleBotname     =     ""  // ⚠️ Utilisez uniquement un nom normal et un nom de travail ici ou vous causerez des erreurs ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
