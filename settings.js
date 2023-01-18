@@ -15,14 +15,14 @@ actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of 
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             globale . ownernumber   = [ '' ]     // Numéro de Propriétaire //+223 72 26 81 34
-             globale . vcardowner   = [ '918811074852' ]     // numéro de propriétaire de vcard //
-             global.ownername = "3.69_Pika"   // Owner name //
+             globale . ownernumber   = [ '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' ]     // Numéro de Propriétaire //+223 72 26 81 34
+             globale . vcardowner   = [ '+223 72 26 81 34' ]     // numéro de propriétaire de vcard //
+             global.ownername = "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
              globale . propriétaire       = [ '' , ' , '     +223 72 26 81 34  ' ]+223 72 26 81 34
-             global.ownertag = '918811074852'  // Tag number //
+             global.ownertag = '+223 72 26 81 34'  // Tag number //
              globale . linkz   =   "https://wa.me/"    // URL du thème qui sera affiché sur WhatsApp //+223 72 26 81 34
              globale . premium    = [ '' ]     // numéros premium //             
              global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
