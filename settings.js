@@ -9,23 +9,23 @@ globale . simpleBotname     =     ""  // ⚠️ Utilisez uniquement un nom norma
 global.botname = "Queen Anya" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
+global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ Arnold Dragneel" // sticker watermark packname //
+global.author = "🥵Arnold🤠❤Monkey D luffy" // sticker watermark author //
 actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.headerText = "Anya by Arnold Dragneel" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             globale . ownernumber   = [ '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' ]     // Numéro de Propriétaire //+223 72 26 81 34
-             globale . vcardowner   = [ '+223 72 26 81 34' ]     // numéro de propriétaire de vcard //
-             global.ownername = "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆"   // Owner name //
+             globale . ownernumber    = [ '༆22899581320༆' ]      // Numéro de Propriétaire //+223 72 26 81 34
+             globale . vcardowner    = [ '+22899581320' ]      // numéro de propriétaire de vcard //
+             globale . nom du propriétaire = "༆Arnold Dragneel༆" //  Nom du propriétaire //    
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             globale . propriétaire       = [ '' , ' , '     +223 72 26 81 34  ' ]+223 72 26 81 34
-             global.ownertag = '+223 72 26 81 34'  // Tag number //
+             globale . propriétaire        = [ '' , ' , '      + 22899581320   ' ]+22899581320
+             globale . ownertag  =  '+22899581320'   // Numéro de balise //
              globale . linkz   =   "https://wa.me/"    // URL du thème qui sera affiché sur WhatsApp //+223 72 26 81 34
              globale . premium    = [ '' ]     // numéros premium //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.waterMark = "×͜× King ✘ Arnold Dragneel™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
